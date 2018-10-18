@@ -1,2 +1,2 @@
 "# node-xls" 
-一个用于读取本地表格文件做相关处理生成新的统计表。
+将源文件改名未data,在node环境下执行node index.js,处理后的输出文件为 result.xlsx
